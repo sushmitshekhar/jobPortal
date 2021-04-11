@@ -4,7 +4,7 @@ Step to RUN the project
 
 2. "TEXT EDITOR"  SUBLIME TEXT 3 / VS CODE.
 
-3 "jobportal"
+3. "jobportal"
 
 4. Download the zip file/ download winrar
 
