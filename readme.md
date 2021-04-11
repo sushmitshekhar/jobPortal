@@ -2,7 +2,7 @@ Step to RUN the project
 
 1. FIRST Download XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / VS CODE.
+2. "TEXT EDITOR"  SUBLIME TEXT 3 / VS CODE.
 
 3 "jobportal"
 
